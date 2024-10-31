@@ -1,0 +1,43 @@
+# Support
+
+If you have any questions, issues, or need assistance, here are the available support channels:
+
+## Documentation
+Check out our documentation for detailed information on setting up and using the Regisy Integration plugin.
+- Docs: https://regisy.com/docs
+
+## Features
+Learn more about Regisy.com features:
+- Subscribers: https://regisy.com/docs/features/subscribers
+- Tags: https://regisy.com/docs/features/tags
+- Templates: https://regisy.com/docs/features/templates
+- Campaigns: https://regisy.com/docs/features/campaigns
+- Messages: https://regisy.com/docs/features/messages
+- Workspaces: https://regisy.com/docs/features/workspaces
+
+## Email Services
+Explore different email services for Regisy.com:
+
+- Introduction: https://regisy.com/docs/email-services/introduction
+- AWS SES: https://regisy.com/docs/email-services/aws
+- Postmark: https://regisy.com/docs/email-services/postmark
+- Sendgrid: https://regisy.com/docs/email-services/sendgrid
+- Mailgun: https://regisy.com/docs/email-services/mailgun
+- Mailjet: https://regisy.com/docs/email-services/mailjet
+- SMTP: https://regisy.com/docs/email-services/smtp
+
+## API
+Explore Regisy.com third-party API integration documentation:
+
+- Introduction: https://regisy.com/docs/api/introduction
+- Campaigns: https://regisy.com/docs/api/campaigns
+- Subscriber Tags: https://regisy.com/docs/api/subscriber-tags
+- Subscribers: https://regisy.com/docs/api/subscribers
+- Tag Subscribers: https://regisy.com/docs/api/tag-subscribers
+- Tags: https://regisy.com/docs/api/tags
+- Templates: https://regisy.com/docs/api/templates
+
+## Regisy Support
+For direct assistance with Regisy.com, you can contact the Regisy support team at mail@regisy.com.
+
+We appreciate your feedback and will do our best to assist you!

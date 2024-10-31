@@ -1,0 +1,15 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## [1.1.0] - 2024-03-02
+### Added
+- Settings link under the plugin name in Plugins page.
+- Tested with WordPress 6.5.
+
+### Updated
+- Initial release of the Regisy Integration plugin.
+- Feature: Connects WordPress site with Regisy for email marketing.
+- Feature: Test API connection from the settings page.
+- Contact Form 7 integration.
+- WPForms integration.

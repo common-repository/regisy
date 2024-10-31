@@ -1,0 +1,107 @@
+img.regisy-logo {
+    width: 100px;
+}
+
+@media screen and (max-width: 782px){
+    img.regisy-logo {
+        width: 70px;
+    }
+    }
+
+#wpwrap {
+  background: #F8FAFF;
+}
+
+.wrap {
+  max-width: 800px;
+  padding: 10px;
+}
+
+a {
+    color: #5d63ff;
+}
+
+a:hover {
+    color: #6c72ff;
+}
+
+p#below-description {
+    margin-top: 10px;
+}
+
+progress#sync-progress-bar {
+    width: 100%;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px!important;
+}
+
+input[type=text] {
+    padding: 5px!important;
+    border: 2px solid #d3defa!important;
+}
+
+input[type=text]:focus {
+    box-shadow: 0 0 0 1px #bbbcda!important;
+}
+
+button {
+  margin-bottom: 5px;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+  font-size: 13px!important;
+  font-weight: 500!important;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+}
+
+button#sync-existing-users-button {
+  background: transparent;
+  color: #5d63ff;
+  border: 2px solid #5d63ff;
+}
+
+button#sync-existing-users-button:hover {
+  color: #6c72ff;
+  border: 2px solid #6c72ff;
+}
+
+button#test-connection-button {
+  background: #5d63ff;
+  color: #fff;
+}
+
+button#test-connection-button:hover {
+    background: #6c72ff;
+}
+
+.wp-core-ui .button-primary {
+  margin-top: 70px!important;
+  background: #5F43EE!important;
+  border-color: #5F43EE!important;
+  width: inherit;
+  border-radius: 8px!important;
+  font-size: 13px!important;
+}
+
+.wp-core-ui .button-primary:hover {
+  background: #735ce7!important;
+  border-color: #735ce7!important;
+}
+
+
+h2 {
+    margin-bottom: 50px!important;
+}
+
+th {
+    margin-top: 30px!important;
+}
